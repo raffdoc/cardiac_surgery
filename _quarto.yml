@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "cardiac_surgery"
-  author: "Norah Jones"
+  title: "Cardiac Sugery"
+  author: "Rafik Margaryan"
   date: "5/2/2026"
   chapters:
     - index.qmd
